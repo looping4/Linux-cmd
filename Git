@@ -7,3 +7,4 @@ git config --global user.email fulanodetal@exemplo.br
 
 #listar configs
 git config --list
+
