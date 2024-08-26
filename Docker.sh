@@ -26,5 +26,6 @@ sudo usermod -aG docker $(whoami)
 #listar imagens rodando
 docker ps
 
+#funcionou
 
 
