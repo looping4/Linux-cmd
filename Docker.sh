@@ -1,4 +1,6 @@
-#INSTALANDO O DOCKER
+#####################################################################
+#                        INSTALANDO O DOCKER                        #
+#####################################################################
 
 # Add Docker's official GPG key:
 sudo apt-get update
@@ -16,3 +18,13 @@ sudo apt-get update
 
 # Add docker in admin user
 sudo usermod -aG docker $(whoami)
+
+#####################################################################
+#                             COMANDOS                              #
+#####################################################################
+
+#listar imagens rodando
+docker ps
+
+
+
